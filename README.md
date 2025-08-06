@@ -1,7 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/banner/starry-night.gif" alt="Céu Estrelado" style="width:100%; border-radius: 10px; position: relative; z-index: 1;" />
-  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" alt="Nyan Cat" style="width: 200px; margin-top: -120px; position: relative; z-index: 2;" />
+  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" alt="Nyan Cat" style="width: 310px; margin-top: 40px; position: relative; z-index: 1;" />
 </p>
+
+<div align="center" style="position: relative; z-index: 2; margin-top: -220px;">
+  <div style="display: inline-block; background: rgba(0,0,0,0.85); border-radius: 24px; padding: 32px 32px 24px 32px; max-width: 700px; color: #fff;">
 
 # 👋 Olá, eu sou o Nyollas!
 
@@ -31,12 +33,13 @@ echo "Desenvolvendo projetos modernos e eficientes.";
 
 ---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge" />
-</div>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge" />
 
 ---
 
 Sinta-se à vontade para explorar meus repositórios e acompanhar meu progresso!
 
 > _“A tecnologia move o mundo.”_ 🚀
+
+  </div>
+</div>

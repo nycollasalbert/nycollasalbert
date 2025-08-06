@@ -5,7 +5,7 @@
 <div align="center" style="position: relative; z-index: 2; margin-top: -220px;">
   <div style="display: inline-block; background: rgba(0,0,0,0.85); border-radius: 24px; padding: 32px 32px 24px 32px; max-width: 700px; color: #fff;">
 
-# 👋 Olá, eu sou o Nyollas!
+# 👋 Olá, eu sou o Nycollas!
 
 Bem-vindo ao meu perfil do GitHub!
 
